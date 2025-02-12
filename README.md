@@ -7,6 +7,6 @@
 - 💬 Ask me about ReactJs
 - 📫 How to reach me: mohamedshareef986@gmail.com
 - 📲 How to reach out:
- <br>[<img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>]
+ <br><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>
 
 
