@@ -2,10 +2,7 @@
 <!--**Mohamed-Shareef/Mohamed-Shareef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ### A passionate full-stack-developer 
 
-- 🔭 I’m currently working on YourOfficePartnes.LLC
-- 🌱 I’m currently learning React Native
-- 💬 Ask me about ReactJs
-- 📫 How to reach me: mohamedshareef986@gmail.com
+
 
 ### connect with me:
 <br>
@@ -15,6 +12,11 @@
 
 <h1 align="center">Hi👋,im Mohamed Shareef</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+- 🔭 I’m currently working on YourOfficePartnes.LLC
+- 🌱 I’m currently learning React Native
+- 💬 Ask me about ReactJs
+- 📫 How to reach me: mohamedshareef986@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abd4634&label=Profile%20views&color=0e75b6&style=flat" alt="abd4634" /></p>
 
