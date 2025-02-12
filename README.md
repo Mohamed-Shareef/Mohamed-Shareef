@@ -1,7 +1,6 @@
 ## Hi👋,im Mohamed Shareef
----
 <!--**Mohamed-Shareef/Mohamed-Shareef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+### A passionate frontend developer from India
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on YourOfficePartnes.LLC
