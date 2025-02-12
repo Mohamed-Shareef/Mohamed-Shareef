@@ -52,6 +52,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abd4634&show_icons=true&locale=en" alt="Mohamed-Shareef" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Shareef&" alt="abd4634" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Shareef&" alt="Mohamed-shareef" /></p>
 
 
