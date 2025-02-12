@@ -48,9 +48,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
    </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abd4634&show_icons=true&locale=en&layout=compact" alt="abd4634" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abd4634&show_icons=true&locale=en&layout=compact" alt="Mohamed-Shareef" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abd4634&show_icons=true&locale=en" alt="abd4634" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abd4634&show_icons=true&locale=en" alt="Mohamed-Shareef" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abd4634&" alt="abd4634" /></p>
 
