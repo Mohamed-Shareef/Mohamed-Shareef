@@ -17,8 +17,6 @@
 - 📫 How to reach me: mohamedshareef986@gmail.com
 
 <h3 align="left">Connect with me:</h3>
-<p>https://img.shields.io/badge/https%3A%2F%2Fx.com%2FMohamedsha66921?style=social&logoColor=gray%20and%20blue&logoSize=50&label=%40mohamedshareef</p>
-
 <p align="left">
 <a href="[https://x.com/Mohamedsha66921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_abd_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/i-am-abd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i-am-abd" height="30" width="40" /></a>
