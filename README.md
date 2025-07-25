@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on YourOfficePartnes.LLC
 - 🌱 I’m currently learning React Native
-- 💬 Ask me about ReactJs
+- 💬 Ask me about ReactJs and anything related to MERN stack and related technologies
 - 📫 How to reach me: mohamedshareef986@gmail.com
 
 <h3 align="left">Connect with me:</h3>
