@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi👋,im Mohamed Shareef</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 
 
